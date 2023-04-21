@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Program Files\Benano\BenanoScanSDK\Include\ScanSDK\Common\ScanROIMaskStruct.h(34,26): warning C4244: '正在初始化': 將 'double' 轉換為 'benano_scansdk::I32'，由於類型不同，可能導致資料遺失
+C:\Program Files\Benano\BenanoScanSDK\Include\ScanSDK\Common\ScanROIMaskStruct.h(35,25): warning C4244: '正在初始化': 將 'double' 轉換為 'benano_scansdk::U32'，由於類型不同，可能導致資料遺失
+C:\Program Files\Benano\BenanoScanSDK\Include\ScanSDK\Common\ScanROIMaskStruct.h(36,26): warning C4244: '正在初始化': 將 'double' 轉換為 'benano_scansdk::U32'，由於類型不同，可能導致資料遺失
+C:\Program Files\Benano\BenanoScanSDK\Include\ScanSDK\DataProcessTool\BnUVToXYZConverter.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+LINK : warning LNK4199: /DELAYLOAD:BenanoScanSDK.dll 已忽略，因為不需要任何來自 BenanoScanSDK.dll 的匯入
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 在函式 main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中參考了無法解析的外部符號
+C:\Users\TingWeiOu\c2100_test\x64\Debug\c2100_test.exe : fatal error LNK1120: 1 個無法解析的外部符號

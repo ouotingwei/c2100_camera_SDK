@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(479,5): error MSB8041: 此專案需要 MFC 程式庫。請從 Visual Studio 安裝程式 ([個別元件] 索引標籤) 為目前使用的所有工具組和架構加以安裝。
